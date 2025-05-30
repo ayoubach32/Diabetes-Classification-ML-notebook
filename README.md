@@ -13,5 +13,6 @@ KNN) into an ensemble learning system.
 a probability score.
 8. Average these probability scores to create the final prediction.
 
-   - Workflow Diagram of the Proposed Diabetes Classification System - 
+  
 <img width="366" alt="diag02" src="https://github.com/user-attachments/assets/41a21848-76c8-4546-8f93-2cbe667961e5" />
+   - Workflow Diagram of the Proposed Diabetes Classification System - 
