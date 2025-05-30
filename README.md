@@ -1,3 +1,4 @@
+
 1. Start by preparing the data using a technique called SMOTE to handle any
 imbalances.
 2. Train four different machine learning models: Random Forest, SVM, KNN,
@@ -11,3 +12,6 @@ KNN) into an ensemble learning system.
 7. Instead of a simple majority vote, use soft voting where each model provides
 a probability score.
 8. Average these probability scores to create the final prediction.
+
+   - Workflow Diagram of the Proposed Diabetes Classification System - 
+<img width="366" alt="diag02" src="https://github.com/user-attachments/assets/41a21848-76c8-4546-8f93-2cbe667961e5" />
